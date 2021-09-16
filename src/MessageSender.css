@@ -1,0 +1,4 @@
+.messageSender__bottom {
+    display:flex;
+    justify-content: space-evenly;
+}
