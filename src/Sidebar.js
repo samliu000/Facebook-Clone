@@ -13,7 +13,7 @@ function Sidebar() {
     return (
         <div className="sidebar">
             <SidebarRow 
-                src="https://i.kym-cdn.com/entries/icons/mobile/000/031/003/cover3.jpg"
+                src="https://media-exp1.licdn.com/dms/image/C5603AQFwISC-cajaFw/profile-displayphoto-shrink_800_800/0/1592189648204?e=1637193600&v=beta&t=c8aQyuWopxDANfYPZWpua4hdpEQArWuwQvPVWN6_EuE"
                 title="Samuel Liu"/>
             <SidebarRow 
                 Icon={LocalHospitalIcon}

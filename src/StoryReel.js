@@ -7,8 +7,8 @@ function StoryReel() {
         <div className='storyReel'>
             <Story 
                 image="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80"
-                profileSrc="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4"
-                title="Sonny Sangha"
+                profileSrc="https://media-exp1.licdn.com/dms/image/C5603AQG_IOrOXN9BuQ/profile-displayphoto-shrink_200_200/0/1599165023844?e=1635984000&v=beta&t=KpXOUk4z5GUmYHLpVk4-s8ZoIaLDdpVZY10na0YTaSM"
+                title="Kimberly Kao"
             />
             <Story 
                 image="https://i2.wp.com/files.123freevectors.com/wp-content/original/131131-cool-blue-polygon-background-template-design.jpg?w=800&q=95"
